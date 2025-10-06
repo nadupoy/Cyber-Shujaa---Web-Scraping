@@ -62,7 +62,7 @@ working with data sets with functions for cleaning, exploring and manipulating d
 
 **3. Selecting and scraping data from `html` elements using tag names and class names** 🔍
 
-This was done by using `find_all()` method in `BeautifulSoup`.
+This was done by using the `find_all()` method in `BeautifulSoup`.
 
 Using tag names only:
 
